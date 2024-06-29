@@ -17,7 +17,7 @@ features:
     details: Begrijp beter hoe je het beste je persoonlijke financiën kunt regelen. 
   - title: Zelf Verbetering
     details: Van elk boek leer je wat en soms wordt je een klein beetje een beter mens. 
-footer: Copyright © 2024 FerRory.net
+footer: Copyright © 2024 Boeken van FerRory
 ---
 
 Leer meer met de [boeken] van FerRory.
