@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "boeken.ferrory.net": {
+      "appLocation": ".",
+      "outputLocation": "docs\\.vuepress\\dist",
+      "appBuildCommand": "npm run docs:build",
+      "run": "npm run docs:build",
+      "appDevserverUrl": "http://localhost:8080"
+    }
+  }
+}
