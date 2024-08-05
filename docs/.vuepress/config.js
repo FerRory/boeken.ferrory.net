@@ -6,7 +6,7 @@ export default defineUserConfig({
   lang: 'nl-NL',
 
   title: 'Boeken van FerRory',
-  description: 'De boekencollectie van FerRory is verdeeld in drie categoriën namelijk Devops, Persoonlijke Financiën en Zelf verbetering.',
+  description: 'Op deze website kun je de boekencollectie van FerRory vinden. De boekencollectie is verdeeld in drie categoriën: Devops, Persoonlijke Financiën en Zelf verbetering.',
 
   theme: defaultTheme({
     
