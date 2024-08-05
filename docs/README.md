@@ -1,6 +1,6 @@
 ---
 home: true
-title: Thuis
+title: Start
 actions:
   - text: Boeken
     link: /boeken.html
