@@ -1,6 +1,6 @@
 # Boeken
 
-Op deze pagina is een overzicht te zien van de boeken van FerRory. In de toekomst zullen hier ook reviews worden geplaatst.
+Op deze pagina is een overzicht te zien van de boeken van FerRory.
 
 ## DevOps
 
