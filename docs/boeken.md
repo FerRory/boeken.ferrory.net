@@ -17,7 +17,7 @@ Op deze pagina is een overzicht te zien van de boeken van FerRory.
 - The psychology of Money - Morgan Housel
 - The Total Money Makeover - Dave Ramsey
 
-## Zelf verbetering
+## Zelf Verbetering
 
  - Atomic Habits - James Clear
  - Company of One - Paul Jarvis
