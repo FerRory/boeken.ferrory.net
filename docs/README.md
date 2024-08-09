@@ -17,9 +17,9 @@ features:
     details: Beheer op een verstandige wijze je persoonlijke financiën.
   - title: Zelf Verbetering
     details: Van deze boeken kun je een beter mens worden. 
-footer: Copyright © 2024 Boeken van FerRory
+footer: Copyright © 2024 Boekencollectie van (Fer)Rory
 ---
 
-Ga naar [boeken] om te zien welke boeken FerRory allemaal bezit.
+Ga naar [boeken] om te zien welke boeken (Fer)Rory allemaal bezit.
 
 [boeken]: /boeken.html
