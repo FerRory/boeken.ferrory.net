@@ -20,6 +20,6 @@ features:
 footer: Copyright © 2024 Boekencollectie van (Fer)Rory
 ---
 
-Ga naar [boeken] om te zien welke boeken (Fer)Rory allemaal bezit.
+Ga naar de [boekencollectie] om te zien welke boeken (Fer)Rory allemaal bezit.
 
-[boeken]: /boeken.html
+[boekencollectie]: /boeken.md
