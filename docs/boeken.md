@@ -1,6 +1,6 @@
 # Boeken
 
-Op deze pagina is een overzicht te zien van de boeken van FerRory.
+Op deze pagina is een overzicht te zien van de boeken die FerRory bezit.
 
 ## DevOps
 
