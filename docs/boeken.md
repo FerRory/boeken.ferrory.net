@@ -1,6 +1,6 @@
-# Boeken
+# Boekencollectie
 
-Op deze pagina is een overzicht te zien van de boeken die FerRory bezit.
+Op deze pagina is een overzicht te zien van de boeken die (Fer)Rory bezit.
 
 ## DevOps
 
