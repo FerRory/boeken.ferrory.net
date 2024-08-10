@@ -18,6 +18,8 @@ Bijvoorbeeld: Je kiest niet altijd de weg welke het meeste geld oplevert, maar w
 
 ## The Total Money Makeover
 
-Dit boek van Dave Ramsey vertelt de 5 stappen die je moet doen 
-om zonder veel risico als millionaire op gepensioeneerde leeftijd op pensioen te gaan.
+Dit boek van Dave Ramsey legt meerdere stappen uit. Met deze stappen kun je
+zonder veel risico als millionaire pensioeneren.
 Helaas wel erg gefocust op de Amerikaanse economie/cultuur.
+
+Remark: Dave's 
