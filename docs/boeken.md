@@ -13,9 +13,9 @@ Op deze pagina is een overzicht te zien van de boeken die (Fer)Rory bezit.
 
 ## Persoonlijke Financiën
 
-- [Rich Dad Poor Dad](/persoonlijke-financien/boeken.html#rich-dad-poor-dad) - Robert T. Kiyosaki
-- [The psychology of Money](/persoonlijke-financien/boeken.html#the-psychology-of-money) - Morgan Housel
-- [The Total Money Makeover](/persoonlijke-financien/boeken.html#the-total-money-makeover) - Dave Ramsey
+- [Rich Dad Poor Dad](/boeken-persoonlijke-financien.html#rich-dad-poor-dad) - Robert T. Kiyosaki
+- [The psychology of Money](/boeken-persoonlijke-financien.html#the-psychology-of-money) - Morgan Housel
+- [The Total Money Makeover](/boeken-persoonlijke-financien.html#the-total-money-makeover) - Dave Ramsey
 
 
 
