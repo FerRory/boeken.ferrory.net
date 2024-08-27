@@ -6,7 +6,7 @@ export default defineUserConfig({
   lang: 'nl-NL',
 
   title: 'Boekencollectie van (Fer)Rory',
-  description: 'Op deze website kun je de boekencollectie van (Fer)Rory vinden. De boekencollectie is verdeeld in drie categoriën: Devops, Persoonlijke Financiën en Zelf verbetering.',
+  description: 'Op deze website kun je de boekencollectie van (Fer)Rory vinden. De boekencollectie is verdeeld in drie categorieën: Devops, Persoonlijke Financiën en Zelf verbetering.',
 
   theme: defaultTheme({
     

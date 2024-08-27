@@ -23,7 +23,7 @@ Bijvoorbeeld: Je kiest niet altijd de weg welke het meeste geld oplevert, maar w
 ## The Total Money Makeover
 
 Dit boek van Dave Ramsey legt meerdere stappen uit. Met deze stappen kun je
-zonder veel risico als millionaire pensioeneren.
+zonder veel risico als millionaire met pensioen gaan.
 Helaas wel erg gefocust op de Amerikaanse economie/cultuur.
 
 [Website Dave Ramsey](https://www.ramseysolutions.com/)
