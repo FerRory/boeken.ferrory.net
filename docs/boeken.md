@@ -4,12 +4,12 @@ Op deze pagina is een overzicht te zien van de boeken die (Fer)Rory bezit.
 
 ## DevOps
 
-- The Phoenix Project - Gene Kim, Kevin Behr en George Spafford
-- DevOps Handbook - Gene Kim, Jez Humble, Patrick Debois en John Willis
-- The Unicorn Project - Gene Kim
-- Explore It! - Elisbeth Hendrickson
-- Site Reliability Engineering - Edited by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy
- - The Professional Product Owner - Dan McGreal & Ralph Jocham
+- [The Phoenix Project](/boeken-devops.md#the-phoenix-project) - Gene Kim, Kevin Behr en George Spafford
+- [DevOps Handbook](/boeken-devops.md#devops-handbook) - Gene Kim, Jez Humble, Patrick Debois en John Willis
+- [The Unicorn Project](/boeken-devops.md#the-unicorn-project) - Gene Kim
+- [Explore It!](/boeken-devops.md#explore-it) - Elisbeth Hendrickson
+- [Site Reliability Engineering](/boeken-devops.md#site-reliability-engineering) - Edited by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy
+- [The Professional Product Owner](/boeken-devops.md#the-professional-product-owner) - Dan McGreal & Ralph Jocham
 
 ## Persoonlijke Financiën
 

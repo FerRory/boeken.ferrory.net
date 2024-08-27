@@ -3,10 +3,9 @@
 ## The Phoenix Project 
 
 Website van auteurs:
-[Website Gene kim](https://itrevolution.com/author/gene-kim/)
-
-Kevin Behr
-George Spafford
+* [Website IT Revolution - Gene kim](https://itrevolution.com/author/gene-kim/)
+* [Website IT Revolution - Kevin Behr](https://itrevolution.com/author/kevin-behr/)
+* George Spafford
 
 
 
@@ -14,21 +13,21 @@ George Spafford
 
 
 Website auteurs:
-[Website Gene kim](https://itrevolution.com/author/gene-kim/)
-Jez Humble
-Patrick Debois
-John Willis
+* [Website IT Revolution - Gene kim](https://itrevolution.com/author/gene-kim/)
+* [Website Jez Humble](https://continuousdelivery.com/)
+* [Website Patrick Debois](https://www.jedi.be/)
+* [Website IT Revolution -John Willis](https://itrevolution.com/author/john-willis/)
 
 
 
 
-## The Unicorn Project - Gene Kim
+## The Unicorn Project
 
-[Website Gene kim](https://itrevolution.com/author/gene-kim/)
+[Website IT Revolution - Gene kim](https://itrevolution.com/author/gene-kim/)
 
 ## Explore It!
 
-[website Elisbeth Hendrickson](https://curiousduck.io)
+[Website Elisbeth Hendrickson](https://curiousduck.io)
 
 
 ## Site Reliability Engineering 
@@ -41,5 +40,5 @@ Bewerkt door Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy
 ## The Professional Product Owner 
 
 Website van auteurs:
-[Website Dan McGreal](https://www.scrum.org/user/don-mcgreal)
-[Website Ralph Jocham](https://effectiveagile.com/staff/ralph-jocham/)
+* [Website Dan McGreal](https://www.scrum.org/user/don-mcgreal)
+* [Website Ralph Jocham](https://effectiveagile.com/staff/ralph-jocham/)
