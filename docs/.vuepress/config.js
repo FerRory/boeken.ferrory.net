@@ -10,7 +10,7 @@ export default defineUserConfig({
 
   theme: defaultTheme({
     
-    navbar: ['/', '/boeken.md'],
+    navbar: ['/', '/boeken.md', 'contact.md'],
   }),
 
   bundler: viteBundler(),
