@@ -1,6 +1,7 @@
 ---
 home: true
 title: Start
+heroImage: /images/hero.png
 actions:
   - text: Boeken
     link: /boeken.html
