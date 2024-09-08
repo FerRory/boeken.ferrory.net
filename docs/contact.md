@@ -1,5 +1,5 @@
 # Contact
 
-Voor vragen kan gemaild worden naar:
+Als je vragen hebt over mijn boekcollectie, kun je e-mailen naar:
 
-![](tekst.png)
+![](/images/tekst.png)

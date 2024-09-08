@@ -7,8 +7,8 @@ actions:
     link: /boeken.html
     type: primary
 
-  - text: Over Rory
-    link: https://ferrory.net/
+  - text: Blog
+    link: https://blog.ferrory.net/
     type: secondary
 
 features:
