@@ -17,19 +17,13 @@ Op deze pagina is een overzicht te zien van de boeken die (Fer)Rory bezit.
 - [The psychology of Money](/boeken-persoonlijke-financien.html#the-psychology-of-money) - Morgan Housel
 - [The Total Money Makeover](/boeken-persoonlijke-financien.html#the-total-money-makeover) - Dave Ramsey
 
-
-
 ## Zelf Verbetering
 
- - [Atomic Habits](/boeken-zelf-verbetering.md#atomic-habits) - James Clear
  - [Company of One](/boeken-zelf-verbetering.md#company-of-one) - Paul Jarvis
- - [Essentialism](/boeken-zelf-verbetering.md#essentialism) - Greg McKeown
- - [Feel Good Productivity](/boeken-zelf-verbetering.md#feel-good-productivity) - Ali Abdaal
  - [How to Win Friends And Influence People](/boeken-zelf-verbetering.md#how-to-win-friends-and-influence-people) - Dale Carnegie
  - [Live More Think Less](/boeken-zelf-verbetering.md#live-more-think-less) - Dr Pia Callessen
  - [Storyworthy](/boeken-zelf-verbetering.md#storyworthy) - Matthew Dicks
  - [The 4-hour work week](/boeken-zelf-verbetering.md#the-4-hour-work-week) - Timothy Ferris
- - [The Almanack of Naval Ravikant](/boeken-zelf-verbetering.md#the-almanack-of-naval-ravikant) - Eric Jorgenson
  - [The Personal MBA](/boeken-zelf-verbetering.md#the-personal-mba) - Josh Kaufman
  - [The Bullet Journal Method](/boeken-zelf-verbetering.md#the-bullet-journal-method) - Ryder Carroll
 
