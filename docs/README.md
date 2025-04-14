@@ -7,9 +7,6 @@ actions:
     link: /boeken.html
     type: primary
 
-  - text: Blog
-    link: https://blog.ferrory.net/
-    type: secondary
 
 features:
   - title: DevOps
